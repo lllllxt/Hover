@@ -1,3 +1,5 @@
 Hover效果
 
-模仿自 http://ianlunn.github.io/Hover/
+Demo: https://lllllxt.github.io/Hover/
+
+模仿自: http://ianlunn.github.io/Hover/
